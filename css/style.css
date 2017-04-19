@@ -24,10 +24,6 @@ a {
   margin: 0 auto;
 }
 
-.right {
-  float: right;
-}
-
 #header {
   position: fixed;
   top: 0;
@@ -43,12 +39,6 @@ a {
   z-index: 1000;
 }
 
-.mobile-nav {
-  display: none;
-}
-
-.name {z-index: 88888;}
-
 #about a {
   color: #3a92c8;
   text-decoration: none;
@@ -57,7 +47,6 @@ a {
 #about a:hover {
   text-decoration: underline;
 }
-
 
 #about {
 /*  background-color: #D57878;*/
