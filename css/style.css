@@ -34,9 +34,8 @@ a {
   text-align: center;
   width: 100%;
   background-color: #fafafa;
-  line-height: 100px;
+  line-height: 75px;
   font-size: 15px;
-  z-index: 1000;
 }
 
 #about a {
