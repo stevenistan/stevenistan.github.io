@@ -141,19 +141,34 @@ span.answer {
 
 }
 
-#about .inner {
-  padding: 0px 10px 0px 10px;
+@media screen and (max-width:860px) {
+  .portfolio-thumb {
+    width: 90%;
+  }
 }
 
-#code, #console {
-  height:auto;
+
+@media screen and (max-width:700px) {
+  #code, #console {
+    width: 100%;
+    overflow: hidden;
+  }
+
 }
 
-#console {
-  padding: 20px;
-}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-#code {
-  margin-bottom: 20px;
-}
+  #about .inner {
+    padding: 0px 10px 0px 10px;
+  }
+  #code, #console {
+    height:auto;
+  }
+  #console {
+    padding: 20px;
+  }
+
+  #code {
+    margin-bottom: 20px;
+  }
 }
