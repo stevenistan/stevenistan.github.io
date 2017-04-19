@@ -19,10 +19,6 @@ a {
   color: #333;
 }
 
-a img {
-  border: none;
-}
-
 .inner {
   max-width: 1024px;
   margin: 0 auto;
