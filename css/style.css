@@ -1,3 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(http://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(../fonts/font-awesome/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+
 #terminal {
 	font-size: 13px;
 	color:#f8f8f8;
