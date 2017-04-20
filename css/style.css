@@ -39,12 +39,12 @@ a {
 
 #about {
   background-color: #21CE8E;
-  height: 1020px;
+  height: 700px;
   margin-top: 75px;
 }
 
 #about p {
-  text-align: center;
+  text-align: left;
   font-family: 'Open Sans', sans-serif;
   letter-spacing: 0.3em;
   font-weight: 700;
