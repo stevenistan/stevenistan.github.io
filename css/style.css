@@ -9,7 +9,7 @@ body {
   font-size: 14px;
   font-family: 'Karla', sans-serif;
   line-height: 20px;
-  color: #333333;
+  color: #ffffff;
   background-color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
@@ -33,7 +33,7 @@ a {
   text-transform: uppercase;
   text-align: center;
   width: 100%;
-  background-color: #fafafa;
+  background-color: #2C3E50;
   line-height: 75px;
   font-size: 15px;
 }
