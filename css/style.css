@@ -47,10 +47,10 @@ a {
 #about {
   background-color: #21CE8E;
   height: 1020px;
+  margin-top: 75px;
 }
 
 #about p {
-  margin-top: 500px;
   text-align: left;
   font-family: 'Open Sans', sans-serif;
   letter-spacing: 0.3em;
