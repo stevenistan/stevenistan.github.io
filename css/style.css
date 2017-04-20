@@ -63,14 +63,14 @@ a {
   text-decoration: underline;
 }
 
-#topbarthing {
+#topbar {
   margin: auto;
   margin-top:10px;
   background-color:#e3e3e3;
   border-radius: 4px 4px 0px 0px;
   padding: 1px 9px 0px 6px;
   height: 18px;
-  width: 100%;
+  width: 670px;
 }       
 
 .circle {
@@ -97,7 +97,7 @@ a {
   font-family: 'Monaco', 'Courier New';
   text-align: left;
   font-size: 13px;
-  width:670px;
+  width: 670px;
   padding: 40px;
   height: 525px;
   margin:0 auto;
