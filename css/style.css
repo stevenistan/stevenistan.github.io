@@ -50,22 +50,41 @@ a {
 #about {
   background-color: #21CE8E;
   height: 1020px;
-  margin-top:-30px;
+  margin-top: 50px;
 }
 
 #code {
-/*  margin-top:150px;*/
   border-radius: 5px;
   width:750px;
   margin: 0 auto;
-  padding-top:15px;
-  font-size:30px;
+  padding-top: 20px;
+  font-size: 30px;
   background: #ccc;
   height: 525px;
   font-family: 'Monaco', 'Courier New';
   text-align: left;
-  font-size:13px;
+  font-size: 13px;
   color: #fafafa;
+}
+
+.circle {
+  width: 8px;
+  height:8px;
+  border-radius: 8px;
+  margin: 4px 7px 1px 0px;
+  float:left;
+} 
+.red {
+  background-color:#FF4D4D;
+  border: solid 1px #B83737;
+}
+.yellow {
+  background-color:#FFDB4D;
+  border: solid 1px #CCAF3E;
+} 
+.green {
+  background-color:#33CC33;
+  border: solid 1px #29A329;
 }
 
 #terminal {
@@ -89,5 +108,4 @@ span.answer {
   color: #fafafa;
   font-size: 11px;
   text-transform: uppercase;
-
 }
