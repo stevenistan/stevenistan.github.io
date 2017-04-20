@@ -10,7 +10,6 @@ body {
   font-family: 'Karla', sans-serif;
   line-height: 20px;
   color: #ffffff;
-  background-color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -24,6 +23,8 @@ a {
   margin: 0 auto;
 }
 
+.name {z-index: 88888;}
+
 #header {
   position: fixed;
   top: 0;
@@ -35,7 +36,8 @@ a {
   width: 100%;
   background-color: #2C3E50;
   line-height: 75px;
-  font-size: 15px;
+  font-size: 17px;
+  font-weight: 700;
 }
 
 #about {
