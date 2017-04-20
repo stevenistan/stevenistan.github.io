@@ -15,13 +15,6 @@ a {
   color: #333;
 }
 
-.inner {
-  max-width: 1024px;
-  margin: 0 auto;
-}
-
-.name {z-index: 88888;}
-
 #header {
   position: fixed;
   top: 0;
