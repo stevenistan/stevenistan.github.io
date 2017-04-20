@@ -38,6 +38,23 @@ a {
   font-size: 15px;
 }
 
+#about {
+  background-color: #21CE8E;
+  height: 1020px;
+  margin-top: 50px;
+}
+
+#about p {
+  text-align: center;
+  padding-top: 60px;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.3em;
+  font-weight: 700;
+  color: #fafafa;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
 #about a {
   color: #3a92c8;
   text-decoration: none;
@@ -45,12 +62,6 @@ a {
 
 #about a:hover {
   text-decoration: underline;
-}
-
-#about {
-  background-color: #21CE8E;
-  height: 1020px;
-  margin-top: 50px;
 }
 
 #code {
@@ -97,15 +108,4 @@ a {
 
 span.answer {
   color:#ccc;
-}
-
-#about p {
-  text-align: center;
-  padding-top: 60px;
-  font-family: 'Open Sans', sans-serif;
-  letter-spacing: 0.3em;
-  font-weight: 700;
-  color: #fafafa;
-  font-size: 11px;
-  text-transform: uppercase;
 }
