@@ -111,7 +111,7 @@ span.answer {
 }
 
 .fa {
-  color:#959595;
+  color: #ffffff;
 } .fa-linkedin:hover {
   color: #5695b6;
 } .fa-github:hover {
@@ -127,6 +127,7 @@ ul.links {
   display:inline;
   margin-right:4px;
 }
+
 ul.links li{
   display:inline;
   font-size:35px;
