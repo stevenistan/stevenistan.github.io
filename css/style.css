@@ -61,17 +61,17 @@ a {
   padding-top:15px;
   font-size:30px;
   background: #ccc;
-  height: 700px;
+  height: 100px;
   font-family: 'Monaco', 'Courier New';
   text-align: left;
   font-size:13px;
   color: #fafafa;
 }
 
-#console {
+#terminal {
   width:670px;
   padding: 40px;
-  height: 620px;
+  height: 525px;
   margin:0 auto;
   background: #383737;
 }
