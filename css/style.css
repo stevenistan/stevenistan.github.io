@@ -34,7 +34,7 @@ a {
     display: inline-block;
     width: 150px;
     height: 75px;
-    margin: 10px;
+    margin: 50px 200px 0px 50px;
 }
 
 #about {
@@ -49,7 +49,7 @@ a {
   letter-spacing: 0.3em;
   font-weight: 700;
   color: #fafafa;
-  font-size: 15px;
+  font-size: 25px;
   text-transform: uppercase;
 }
 
