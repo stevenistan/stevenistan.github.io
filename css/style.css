@@ -45,6 +45,8 @@ a {
 
 #about p {
   text-align: left;
+  margin: 0px;
+  width: 290px;
   font-family: 'Open Sans', sans-serif;
   letter-spacing: 0.3em;
   font-weight: 700;
