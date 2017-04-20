@@ -30,18 +30,11 @@ a {
   font-weight: 700;
 }
 
-.left {
-    position: absolute;
-    left: 0px;
-    width: 300px;
-    padding: 10px;
-}
-
-.right {
-    position: absolute;
-    right: 0px;
-    width: 300px;
-    padding: 10px;
+.grid {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
 }
 
 #about {
