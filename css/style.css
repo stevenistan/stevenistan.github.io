@@ -109,3 +109,26 @@ a {
 span.answer {
   color:#ccc;
 }
+
+.fa {
+  color:#959595;
+} .fa-linkedin:hover {
+  color: #5695b6;
+} .fa-github:hover {
+  color: #474747;
+} .fa-facebook:hover {
+  color: #7e90b4;
+} .fa-file-pdf-o:hover {
+  color: #de5959;
+}
+
+ul.links {
+  list-style-type: none;
+  display:inline;
+  margin-right:4px;
+}
+ul.links li{
+  display:inline;
+  font-size:35px;
+  padding: 7px;
+}
