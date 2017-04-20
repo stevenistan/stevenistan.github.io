@@ -32,6 +32,7 @@ a {
 
 .grid {
     display: inline-block;
+    vertical-align: top;
     width: 150px;
     height: 400px;
     margin: 50px 200px 0px 100px;
@@ -45,7 +46,7 @@ a {
 
 #about p {
   text-align: left;
-  margin: 0px;
+  margin-top: 50px;
   width: 290px;
   font-family: 'Open Sans', sans-serif;
   letter-spacing: 0.3em;
