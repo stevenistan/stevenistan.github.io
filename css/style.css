@@ -44,6 +44,13 @@ a {
     padding: 10px;
 }
 
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+}
+
 #about {
   background-color: #21CE8E;
   height: 1020px;
