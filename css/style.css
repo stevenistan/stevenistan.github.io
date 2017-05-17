@@ -80,7 +80,7 @@ img {
   border-radius: 4px 4px 0px 0px;
   padding: 1px 9px 0px 6px;
   height: 18px;
-  width: 735px;
+  width: 600px;
 }       
 
 .circle {
@@ -107,9 +107,9 @@ img {
   font-family: 'Monaco', 'Courier New';
   text-align: left;
   font-size: 13px;
-  width: 670px;
+  width: 535px;
   padding: 40px;
-  height: 450px;
+  height: 400px;
   margin:0 auto;
   background: #383737;
 }
