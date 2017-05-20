@@ -53,11 +53,11 @@ img {
 }
 
 #about p {
-  text-align: left;
+  text-align: center;
   margin-top: 85px;
   width: 290px;
   font-family: 'Open Sans', sans-serif;
-  letter-spacing: 0.3em;
+  letter-spacing: 0.2em;
   font-weight: 700;
   color: #fafafa;
   font-size: 25px;
