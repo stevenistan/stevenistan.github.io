@@ -2,14 +2,17 @@ html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
   /* -ms-text-size-adjust: 100%; */
-  height: 100%;
 }
 
 body {
   margin: 0;
   color: #ffffff;
   -webkit-font-smoothing: antialiased;
+}
+
+html, body {
   height: 100%;
+  width: 100%;
 }
 
 a {
@@ -20,7 +23,6 @@ a {
 img {
     display: block;
     margin: 0 auto;
-    padding-left: 5px;
 }
 
 #header {
@@ -41,28 +43,26 @@ img {
 .grid {
     display: inline-block;
     vertical-align: top;
-    width: 150px;
-    height: 400px;
-    margin: 50px 200px 0px 150px;
+    text-align: center;
+    width: 45%;
+    height: 100%;
 }
 
 #about {
   background-color: #57BC90;
   height: 100%;
   width: 100%;
-  min-width: 1300px;
   margin-top: 75px;
 }
 
 #about p {
-  text-align: center;
+  /* text-align: center; */
   margin-top: 85px;
-  width: 290px;
   font-family: 'Open Sans', sans-serif;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.1em;
   font-weight: 700;
   color: #fafafa;
-  font-size: 25px;
+  font-size: 30px;
   text-transform: uppercase;
 }
 
@@ -80,9 +80,9 @@ img {
   margin-top: 10px;
   background-color: #e3e3e3;
   border-radius: 4px 4px 0px 0px;
-  padding: 1px 9px 0px 6px;
+  padding: 1px 73px 0px 6px;
   height: 18px;
-  width: 600px;
+  width: 100%;
 }       
 
 .circle {
@@ -109,10 +109,9 @@ img {
   font-family: 'Monaco', 'Courier New';
   text-align: left;
   font-size: 13px;
-  width: 535px;
+  width: 100%;
   padding: 40px;
-  height: 440px;
-  margin:0 auto;
+  height: 70%;
   background: #383737;
 }
 
@@ -135,11 +134,11 @@ span.answer {
 ul.links {
   list-style-type: none;
   display: inline;
-  margin-right: 4px;
+  margin-right: 40px;
   white-space: nowrap;
 }
 
-ul.links li{
+ul.links li {
   display: inline;
   font-size: 35px;
   padding-left: 9px;
