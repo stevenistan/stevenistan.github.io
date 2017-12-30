@@ -48,6 +48,7 @@ img {
     height: 100%;
 }
 
+/***** ABOUT *****/
 #about {
   background-color: #57BC90;
   height: 100%;
@@ -77,10 +78,10 @@ img {
 
 #topbar {
   margin: auto;
-  margin-top: 10px;
+  margin-top: 40px;
   background-color: #e3e3e3;
   border-radius: 4px 4px 0px 0px;
-  padding: 1px 73px 0px 6px;
+  padding: 1px 3px 1px 6px;
   height: 18px;
   width: 100%;
 }       
@@ -109,9 +110,9 @@ img {
   font-family: 'Monaco', 'Courier New';
   text-align: left;
   font-size: 13px;
-  width: 100%;
+  width: 89%;
   padding: 40px;
-  height: 70%;
+  height: 65%;
   background: #383737;
 }
 
@@ -144,3 +145,8 @@ ul.links li {
   padding-left: 9px;
   padding-right: 7px;
 }
+/***** ABOUT END *****/
+
+/***** PROJECTS *****/
+
+/***** PROJECTS END *****/
