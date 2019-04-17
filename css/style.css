@@ -52,7 +52,7 @@ img {
 /***** ABOUT *****/
 #about {
   background-color: #C26868;
-  height: 100%;
+  height: calc(100% + 75px);
   width: 100%;
   margin-top: 75px;
 }
